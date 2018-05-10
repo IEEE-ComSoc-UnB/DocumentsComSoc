@@ -1,2 +1,2 @@
 
-<h1> Documentos Relacionados a regimentos da organização </h1>
+<h1> Documentos e regimentos da organização </h1>
